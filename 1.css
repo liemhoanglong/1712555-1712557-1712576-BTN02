@@ -1,0 +1,41 @@
+*{margin: 0;padding: 0;}
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    color: tomato;
+}
+
+img.center {
+    margin-top: 105px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+p {
+	position: fixed;
+	left: 0px;
+	bottom: 0;
+	width: 100%;
+	background-color: #e7e8e9;
+	color: black;
+	padding: 13px;
+	padding-left: 100px;
+}
+
+h3 {
+	position: fixed;
+	text-align: center;
+	background: #e7e8e9;
+	padding: 34px;
+	font-size: 40px;
+	width: 100%;
+	font-family: arial;
+	font-weight: normal;
+}
