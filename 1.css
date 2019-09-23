@@ -4,12 +4,23 @@ h2 {
     text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
+    font-family: arial;
+    color: #0275d8;
+    text-decoration: none;
+}
+a {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: arial;
+    color: #0275d8;
+    text-decoration: none;
 }
 
 h1 {
     text-align: center;
     margin: 10px;
-    color: tomato;
+    font-family: arial;
 }
 
 img.center {
