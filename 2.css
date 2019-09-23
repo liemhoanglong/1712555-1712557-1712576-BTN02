@@ -1,7 +1,14 @@
 *{margin: 0;padding: 0;}
 
 button {
-    margin-left: -140px;
+    margin-left: -165px;
+    background: black;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 34px;
+    font-size: 19px;
+    font-weight: bold;
 }
 
 * {
